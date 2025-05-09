@@ -9,7 +9,6 @@ import { DataserviceService } from '../dataservice.service';
 import { HttpClient, HttpParams } from '@angular/common/http';
 import { DownloadfileService } from '../downloadfile.service';
 import { Router } from '@angular/router';
-import { View } from '@grapecity/gcpdfviewer/typings/Articles';
 import { IndentLetterComponent } from '../indent-letter/indent-letter.component';
 import { AuthService } from '../auth.service';
 
